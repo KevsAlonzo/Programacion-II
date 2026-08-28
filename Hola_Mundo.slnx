@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/Hola_Mundo/">
+    <File Path="Hola_Mundo/Program.cs" />
+    <Project Path="Hola_Mundo/Hola_Mundo.csproj" />
+  </Folder>
+</Solution>
