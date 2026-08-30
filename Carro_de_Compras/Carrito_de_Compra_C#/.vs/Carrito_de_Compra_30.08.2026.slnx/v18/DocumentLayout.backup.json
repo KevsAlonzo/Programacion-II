@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\COMPUFIRE\\OneDrive - Universidad Mariano G\u00E1lvez\\UMG\\PROGRAMACION II\\Repositorios_VS_2026\\Carrito_de_Compra_30.08.2026\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{62BBC3E8-D1B0-49BD-82C4-E0AC2C8E7FA3}|Carrito_de_Compra_30.08.2026\\Carrito_de_Compra_30.08.2026.csproj|c:\\users\\compufire\\onedrive - universidad mariano g\u00E1lvez\\umg\\programacion ii\\repositorios_vs_2026\\carrito_de_compra_30.08.2026\\carrito_de_compra_30.08.2026\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62BBC3E8-D1B0-49BD-82C4-E0AC2C8E7FA3}|Carrito_de_Compra_30.08.2026\\Carrito_de_Compra_30.08.2026.csproj|solutionrelative:carrito_de_compra_30.08.2026\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{131369f2-062d-44a2-8671-91ff31efb4f4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\COMPUFIRE\\OneDrive - Universidad Mariano G\u00E1lvez\\UMG\\PROGRAMACION II\\Repositorios_VS_2026\\Carrito_de_Compra_30.08.2026\\Carrito_de_Compra_30.08.2026\\Program.cs",
+              "RelativeDocumentMoniker": "Carrito_de_Compra_30.08.2026\\Program.cs",
+              "ToolTip": "C:\\Users\\COMPUFIRE\\OneDrive - Universidad Mariano G\u00E1lvez\\UMG\\PROGRAMACION II\\Repositorios_VS_2026\\Carrito_de_Compra_30.08.2026\\Carrito_de_Compra_30.08.2026\\Program.cs",
+              "RelativeToolTip": "Carrito_de_Compra_30.08.2026\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-30T22:02:49.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
