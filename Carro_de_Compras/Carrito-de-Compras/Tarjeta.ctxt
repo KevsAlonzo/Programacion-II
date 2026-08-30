@@ -1,0 +1,9 @@
+#BlueJ class context
+#Sun Aug 30 01:57:59 CST 2026
+comment0.target=Tarjeta
+comment0.text=\r\n Write a description of class Tarjeta here.\r\n \r\n @author (your name) \r\n @version (a version number or a date)\r\n
+comment1.params=numero pin
+comment1.target=Tarjeta(java.lang.String, java.lang.String)
+comment2.params=pinIngresado
+comment2.target=boolean validarPin(java.lang.String)
+numComments=3

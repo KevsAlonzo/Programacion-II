@@ -1,0 +1,7 @@
+#BlueJ class context
+#Sun Aug 30 02:05:14 CST 2026
+comment0.target=Documento
+comment0.text=\r\n Write a description of class Documento here.\r\n \r\n @author (your name) \r\n @version (a version number or a date)\r\n
+comment1.params=numeroFactura carritoPagado totalPagado
+comment1.target=Documento(java.lang.String, Carrito, double)
+numComments=2
