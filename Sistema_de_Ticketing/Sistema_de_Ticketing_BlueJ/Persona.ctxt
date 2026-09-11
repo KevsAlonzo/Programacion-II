@@ -1,0 +1,7 @@
+#BlueJ class context
+#Thu Sep 10 23:43:48 CST 2026
+comment0.target=Persona
+comment0.text=\r\n\r\n @author Kevin Alonzo\r\n
+comment1.target=void registrar()
+comment2.target=void mostrarInformacion()
+numComments=3

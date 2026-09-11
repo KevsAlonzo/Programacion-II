@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\COMPUFIRE\\OneDrive - Universidad Mariano Gálvez\\UMG\\PROGRAMACION II\\Repositorios_VS_2026\\Carrito_de_Compra_30.08.2026\\Carrito_de_Compra_30.08.2026\\Carrito_de_Compra_30.08.2026.csproj": {}
+    "C:\\Users\\COMPUFIRE\\OneDrive - Universidad Mariano Gálvez\\UMG\\PROGRAMACION II\\GitHub\\Programacion-II\\Carro_de_Compras\\Carrito_de_Compra_C#\\Carrito_de_Compra_30.08.2026\\Carrito_de_Compra_30.08.2026.csproj": {}
   },
   "projects": {
-    "C:\\Users\\COMPUFIRE\\OneDrive - Universidad Mariano Gálvez\\UMG\\PROGRAMACION II\\Repositorios_VS_2026\\Carrito_de_Compra_30.08.2026\\Carrito_de_Compra_30.08.2026\\Carrito_de_Compra_30.08.2026.csproj": {
+    "C:\\Users\\COMPUFIRE\\OneDrive - Universidad Mariano Gálvez\\UMG\\PROGRAMACION II\\GitHub\\Programacion-II\\Carro_de_Compras\\Carrito_de_Compra_C#\\Carrito_de_Compra_30.08.2026\\Carrito_de_Compra_30.08.2026.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\COMPUFIRE\\OneDrive - Universidad Mariano Gálvez\\UMG\\PROGRAMACION II\\Repositorios_VS_2026\\Carrito_de_Compra_30.08.2026\\Carrito_de_Compra_30.08.2026\\Carrito_de_Compra_30.08.2026.csproj",
+        "projectUniqueName": "C:\\Users\\COMPUFIRE\\OneDrive - Universidad Mariano Gálvez\\UMG\\PROGRAMACION II\\GitHub\\Programacion-II\\Carro_de_Compras\\Carrito_de_Compra_C#\\Carrito_de_Compra_30.08.2026\\Carrito_de_Compra_30.08.2026.csproj",
         "projectName": "Carrito_de_Compra_30.08.2026",
-        "projectPath": "C:\\Users\\COMPUFIRE\\OneDrive - Universidad Mariano Gálvez\\UMG\\PROGRAMACION II\\Repositorios_VS_2026\\Carrito_de_Compra_30.08.2026\\Carrito_de_Compra_30.08.2026\\Carrito_de_Compra_30.08.2026.csproj",
+        "projectPath": "C:\\Users\\COMPUFIRE\\OneDrive - Universidad Mariano Gálvez\\UMG\\PROGRAMACION II\\GitHub\\Programacion-II\\Carro_de_Compras\\Carrito_de_Compra_C#\\Carrito_de_Compra_30.08.2026\\Carrito_de_Compra_30.08.2026.csproj",
         "packagesPath": "C:\\Users\\COMPUFIRE\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\COMPUFIRE\\OneDrive - Universidad Mariano Gálvez\\UMG\\PROGRAMACION II\\Repositorios_VS_2026\\Carrito_de_Compra_30.08.2026\\Carrito_de_Compra_30.08.2026\\obj\\",
+        "outputPath": "C:\\Users\\COMPUFIRE\\OneDrive - Universidad Mariano Gálvez\\UMG\\PROGRAMACION II\\GitHub\\Programacion-II\\Carro_de_Compras\\Carrito_de_Compra_C#\\Carrito_de_Compra_30.08.2026\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

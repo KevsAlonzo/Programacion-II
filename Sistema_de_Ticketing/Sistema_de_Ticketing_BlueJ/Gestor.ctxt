@@ -1,0 +1,6 @@
+#BlueJ class context
+#Fri Sep 11 00:15:21 CST 2026
+comment0.target=Gestor
+comment1.params=titulo sol
+comment1.target=Ticket crearTicket(java.lang.String, Solicitante)
+numComments=2

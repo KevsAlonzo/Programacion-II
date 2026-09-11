@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\COMPUFIRE\\OneDrive - Universidad Mariano G\u00E1lvez\\UMG\\PROGRAMACION II\\Repositorios_VS_2026\\Carrito_de_Compra_30.08.2026\\",
+  "WorkspaceRootPath": "C:\\Users\\COMPUFIRE\\OneDrive - Universidad Mariano G\u00E1lvez\\UMG\\PROGRAMACION II\\GitHub\\Programacion-II\\Carro_de_Compras\\Carrito_de_Compra_C#\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{62BBC3E8-D1B0-49BD-82C4-E0AC2C8E7FA3}|Carrito_de_Compra_30.08.2026\\Carrito_de_Compra_30.08.2026.csproj|c:\\users\\compufire\\onedrive - universidad mariano g\u00E1lvez\\umg\\programacion ii\\repositorios_vs_2026\\carrito_de_compra_30.08.2026\\carrito_de_compra_30.08.2026\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{62BBC3E8-D1B0-49BD-82C4-E0AC2C8E7FA3}|Carrito_de_Compra_30.08.2026\\Carrito_de_Compra_30.08.2026.csproj|solutionrelative:carrito_de_compra_30.08.2026\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B27F7CE6-ED84-DA9D-5335-B5C2873946C0}|Carrito_de_Compra_30.08.2026\\Carrito_de_Compra_30.08.2026.csproj|c:\\users\\compufire\\onedrive - universidad mariano g\u00E1lvez\\umg\\programacion ii\\github\\programacion-ii\\carro_de_compras\\carrito_de_compra_c#\\carrito_de_compra_30.08.2026\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B27F7CE6-ED84-DA9D-5335-B5C2873946C0}|Carrito_de_Compra_30.08.2026\\Carrito_de_Compra_30.08.2026.csproj|solutionrelative:carrito_de_compra_30.08.2026\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -33,21 +33,21 @@
               "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\COMPUFIRE\\OneDrive - Universidad Mariano G\u00E1lvez\\UMG\\PROGRAMACION II\\Repositorios_VS_2026\\Carrito_de_Compra_30.08.2026\\Carrito_de_Compra_30.08.2026\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\COMPUFIRE\\OneDrive - Universidad Mariano G\u00E1lvez\\UMG\\PROGRAMACION II\\GitHub\\Programacion-II\\Carro_de_Compras\\Carrito_de_Compra_C#\\Carrito_de_Compra_30.08.2026\\Program.cs",
               "RelativeDocumentMoniker": "Carrito_de_Compra_30.08.2026\\Program.cs",
-              "ToolTip": "C:\\Users\\COMPUFIRE\\OneDrive - Universidad Mariano G\u00E1lvez\\UMG\\PROGRAMACION II\\Repositorios_VS_2026\\Carrito_de_Compra_30.08.2026\\Carrito_de_Compra_30.08.2026\\Program.cs",
+              "ToolTip": "C:\\Users\\COMPUFIRE\\OneDrive - Universidad Mariano G\u00E1lvez\\UMG\\PROGRAMACION II\\GitHub\\Programacion-II\\Carro_de_Compras\\Carrito_de_Compra_C#\\Carrito_de_Compra_30.08.2026\\Program.cs",
               "RelativeToolTip": "Carrito_de_Compra_30.08.2026\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAADAAAAAAAAAA==",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAAAFYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-30T22:02:49.783Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             }
           ]
         }

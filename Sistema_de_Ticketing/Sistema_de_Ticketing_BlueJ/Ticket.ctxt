@@ -1,0 +1,8 @@
+#BlueJ class context
+#Fri Sep 11 00:11:37 CST 2026
+comment0.target=Ticket
+comment1.params=creador
+comment1.target=Ticket(Solicitante)
+comment2.params=tipo descripcion
+comment2.target=void registrarError(java.lang.String, java.lang.String)
+numComments=3

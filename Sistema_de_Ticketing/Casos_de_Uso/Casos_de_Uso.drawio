@@ -1,0 +1,210 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Página-1" id="2BmkjlDyhJKWwkZEbg0Q">
+    <mxGraphModel dx="1132" dy="1894" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <UserObject label="" plantUmlData="{&#xa;  &quot;data&quot;: &quot;@startuml\nleft to right direction\nactor \&quot;SOLICITANTE\&quot; as sol\nactor \&quot;SISTEMA\&quot; as sis\nusecase \&quot;CREAR TICKET\&quot; as UC1\n\nsol --&gt; UC1\nUC1 --&gt; sis\n@enduml&quot;,&#xa;  &quot;config&quot;: null&#xa;}" id="PYgAetvRZphNEmydzy1d-55">
+          <mxCell connectable="0" parent="1" style="group;transparentBounds=1;editIcon=1;lockedGroup=0;groupPadding=10;" vertex="1">
+            <mxGeometry as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" plantUmlId="actor_0" plantUmlBaseStyle="shape=umlActor;html=1;fillColor=#F1F1F1;strokeColor=#181818;fontColor=#000000;fontSize=14;" plantUmlBaseValue="" id="PYgAetvRZphNEmydzy1d-56">
+          <mxCell parent="PYgAetvRZphNEmydzy1d-55" style="shape=umlActor;html=1;fillColor=#F1F1F1;strokeColor=#181818;fontColor=#000000;fontSize=14;" vertex="1">
+            <mxGeometry height="60" width="40" x="111" y="-1120" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="SOLICITANTE" plantUmlId="actorlbl_1" plantUmlBaseStyle="text;html=1;align=center;verticalAlign=top;fontColor=#000000;fontSize=14;" plantUmlBaseValue="SOLICITANTE" id="PYgAetvRZphNEmydzy1d-57">
+          <mxCell parent="PYgAetvRZphNEmydzy1d-55" style="text;html=1;align=center;verticalAlign=top;fontColor=#000000;fontSize=14;" vertex="1">
+            <mxGeometry height="17" width="102" x="80" y="-1058" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" plantUmlId="actor_2" plantUmlBaseStyle="shape=umlActor;html=1;fillColor=#F1F1F1;strokeColor=#181818;fontColor=#000000;fontSize=14;" plantUmlBaseValue="" id="PYgAetvRZphNEmydzy1d-58">
+          <mxCell parent="PYgAetvRZphNEmydzy1d-55" style="shape=umlActor;html=1;fillColor=#F1F1F1;strokeColor=#181818;fontColor=#000000;fontSize=14;" vertex="1">
+            <mxGeometry height="60" width="40" x="410.1" y="-1120" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="SISTEMA" plantUmlId="actorlbl_3" plantUmlBaseStyle="text;html=1;align=center;verticalAlign=top;fontColor=#000000;fontSize=14;" plantUmlBaseValue="SISTEMA" id="PYgAetvRZphNEmydzy1d-59">
+          <mxCell parent="PYgAetvRZphNEmydzy1d-55" style="text;html=1;align=center;verticalAlign=top;fontColor=#000000;fontSize=14;" vertex="1">
+            <mxGeometry height="17" width="75" x="392.6" y="-1058" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="CREAR TICKET" plantUmlId="uc_4" plantUmlBaseStyle="ellipse;html=1;fillColor=#F1F1F1;strokeColor=#181818;whiteSpace=wrap;fontColor=#000000;fontSize=14;" plantUmlBaseValue="CREAR TICKET" id="PYgAetvRZphNEmydzy1d-60">
+          <mxCell parent="PYgAetvRZphNEmydzy1d-55" style="ellipse;html=1;fillColor=#F1F1F1;strokeColor=#181818;whiteSpace=wrap;fontColor=#000000;fontSize=14;" vertex="1">
+            <mxGeometry height="33" width="139" x="211.2" y="-1106.5" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" plantUmlId="rel_5" plantUmlBaseStyle="endArrow=block;endFill=1;strokeColor=#181818;fontColor=#000000;fontSize=11;edgeStyle=none;rounded=0;html=1;curved=0;endSize=6;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" plantUmlBaseValue="" id="PYgAetvRZphNEmydzy1d-61">
+          <mxCell edge="1" parent="PYgAetvRZphNEmydzy1d-55" source="PYgAetvRZphNEmydzy1d-56" style="endArrow=block;endFill=1;strokeColor=#181818;fontColor=#000000;fontSize=11;edgeStyle=none;rounded=0;html=1;curved=0;endSize=6;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" target="PYgAetvRZphNEmydzy1d-60">
+            <mxGeometry relative="1" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" plantUmlId="rel_6" plantUmlBaseStyle="endArrow=block;endFill=1;strokeColor=#181818;fontColor=#000000;fontSize=11;edgeStyle=none;rounded=0;html=1;curved=0;endSize=6;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" plantUmlBaseValue="" id="PYgAetvRZphNEmydzy1d-62">
+          <mxCell edge="1" parent="PYgAetvRZphNEmydzy1d-55" source="PYgAetvRZphNEmydzy1d-60" style="endArrow=block;endFill=1;strokeColor=#181818;fontColor=#000000;fontSize=11;edgeStyle=none;rounded=0;html=1;curved=0;endSize=6;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" target="PYgAetvRZphNEmydzy1d-58">
+            <mxGeometry relative="1" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" plantUmlData="{&#xa;  &quot;data&quot;: &quot;@startuml\nleft to right direction\nactor \&quot;GESTOR\&quot; as gestor\nactor \&quot;TÉCNICO\&quot; as tec\nusecase \&quot;ASIGNAR TICKET\&quot; as UC2\n\ngestor --&gt; UC2\nUC2 --&gt; tec\n@enduml&quot;,&#xa;  &quot;config&quot;: null&#xa;}" id="PYgAetvRZphNEmydzy1d-64">
+          <mxCell connectable="0" parent="1" style="group;transparentBounds=1;editIcon=1;lockedGroup=0;groupPadding=10;" vertex="1">
+            <mxGeometry as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" plantUmlId="actor_0" plantUmlBaseStyle="shape=umlActor;html=1;fillColor=#F1F1F1;strokeColor=#181818;fontColor=#000000;fontSize=14;" plantUmlBaseValue="" id="PYgAetvRZphNEmydzy1d-65">
+          <mxCell parent="PYgAetvRZphNEmydzy1d-64" style="shape=umlActor;html=1;fillColor=#F1F1F1;strokeColor=#181818;fontColor=#000000;fontSize=14;" vertex="1">
+            <mxGeometry height="60" width="40" x="102.5" y="-980" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="GESTOR" plantUmlId="actorlbl_1" plantUmlBaseStyle="text;html=1;align=center;verticalAlign=top;fontColor=#000000;fontSize=14;" plantUmlBaseValue="GESTOR" id="PYgAetvRZphNEmydzy1d-66">
+          <mxCell parent="PYgAetvRZphNEmydzy1d-64" style="text;html=1;align=center;verticalAlign=top;fontColor=#000000;fontSize=14;" vertex="1">
+            <mxGeometry height="17" width="65" x="90" y="-918" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" plantUmlId="actor_2" plantUmlBaseStyle="shape=umlActor;html=1;fillColor=#F1F1F1;strokeColor=#181818;fontColor=#000000;fontSize=14;" plantUmlBaseValue="" id="PYgAetvRZphNEmydzy1d-67">
+          <mxCell parent="PYgAetvRZphNEmydzy1d-64" style="shape=umlActor;html=1;fillColor=#F1F1F1;strokeColor=#181818;fontColor=#000000;fontSize=14;" vertex="1">
+            <mxGeometry height="60" width="40" x="412.6" y="-980" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="TÉCNICO" plantUmlId="actorlbl_3" plantUmlBaseStyle="text;html=1;align=center;verticalAlign=top;fontColor=#000000;fontSize=14;" plantUmlBaseValue="TÉCNICO" id="PYgAetvRZphNEmydzy1d-68">
+          <mxCell parent="PYgAetvRZphNEmydzy1d-64" style="text;html=1;align=center;verticalAlign=top;fontColor=#000000;fontSize=14;" vertex="1">
+            <mxGeometry height="17" width="68" x="398.6" y="-918" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="ASIGNAR TICKET" plantUmlId="uc_4" plantUmlBaseStyle="ellipse;html=1;fillColor=#F1F1F1;strokeColor=#181818;whiteSpace=wrap;fontColor=#000000;fontSize=14;" plantUmlBaseValue="ASIGNAR TICKET" id="PYgAetvRZphNEmydzy1d-69">
+          <mxCell parent="PYgAetvRZphNEmydzy1d-64" style="ellipse;html=1;fillColor=#F1F1F1;strokeColor=#181818;whiteSpace=wrap;fontColor=#000000;fontSize=14;" vertex="1">
+            <mxGeometry height="35" width="150" x="202.7" y="-967.5" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" plantUmlId="rel_5" plantUmlBaseStyle="endArrow=block;endFill=1;strokeColor=#181818;fontColor=#000000;fontSize=11;edgeStyle=none;rounded=0;html=1;curved=0;endSize=6;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" plantUmlBaseValue="" id="PYgAetvRZphNEmydzy1d-70">
+          <mxCell edge="1" parent="PYgAetvRZphNEmydzy1d-64" source="PYgAetvRZphNEmydzy1d-65" style="endArrow=block;endFill=1;strokeColor=#181818;fontColor=#000000;fontSize=11;edgeStyle=none;rounded=0;html=1;curved=0;endSize=6;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" target="PYgAetvRZphNEmydzy1d-69">
+            <mxGeometry relative="1" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" plantUmlId="rel_6" plantUmlBaseStyle="endArrow=block;endFill=1;strokeColor=#181818;fontColor=#000000;fontSize=11;edgeStyle=none;rounded=0;html=1;curved=0;endSize=6;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" plantUmlBaseValue="" id="PYgAetvRZphNEmydzy1d-71">
+          <mxCell edge="1" parent="PYgAetvRZphNEmydzy1d-64" source="PYgAetvRZphNEmydzy1d-69" style="endArrow=block;endFill=1;strokeColor=#181818;fontColor=#000000;fontSize=11;edgeStyle=none;rounded=0;html=1;curved=0;endSize=6;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" target="PYgAetvRZphNEmydzy1d-67">
+            <mxGeometry relative="1" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" plantUmlData="{&#xa;  &quot;data&quot;: &quot;@startuml\nleft to right direction\nactor \&quot;TÉCNICO\&quot; as tec\nactor \&quot;GESTOR\&quot; as gestor\nusecase \&quot;ESCALAR TICKET\&quot; as UC3\n\ntec --&gt; UC3\nUC3 --&gt; gestor\n@enduml&quot;,&#xa;  &quot;config&quot;: null&#xa;}" id="PYgAetvRZphNEmydzy1d-72">
+          <mxCell connectable="0" parent="1" style="group;transparentBounds=1;editIcon=1;lockedGroup=0;groupPadding=10;" vertex="1">
+            <mxGeometry as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" plantUmlId="actor_0" plantUmlBaseStyle="shape=umlActor;html=1;fillColor=#F1F1F1;strokeColor=#181818;fontColor=#000000;fontSize=14;" plantUmlBaseValue="" id="PYgAetvRZphNEmydzy1d-73">
+          <mxCell parent="PYgAetvRZphNEmydzy1d-72" style="shape=umlActor;html=1;fillColor=#F1F1F1;strokeColor=#181818;fontColor=#000000;fontSize=14;" vertex="1">
+            <mxGeometry height="60" width="40" x="104" y="-830" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="TÉCNICO" plantUmlId="actorlbl_1" plantUmlBaseStyle="text;html=1;align=center;verticalAlign=top;fontColor=#000000;fontSize=14;" plantUmlBaseValue="TÉCNICO" id="PYgAetvRZphNEmydzy1d-74">
+          <mxCell parent="PYgAetvRZphNEmydzy1d-72" style="text;html=1;align=center;verticalAlign=top;fontColor=#000000;fontSize=14;" vertex="1">
+            <mxGeometry height="17" width="68" x="90" y="-768" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" plantUmlId="actor_2" plantUmlBaseStyle="shape=umlActor;html=1;fillColor=#F1F1F1;strokeColor=#181818;fontColor=#000000;fontSize=14;" plantUmlBaseValue="" id="PYgAetvRZphNEmydzy1d-75">
+          <mxCell parent="PYgAetvRZphNEmydzy1d-72" style="shape=umlActor;html=1;fillColor=#F1F1F1;strokeColor=#181818;fontColor=#000000;fontSize=14;" vertex="1">
+            <mxGeometry height="60" width="40" x="418.1" y="-830" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="GESTOR" plantUmlId="actorlbl_3" plantUmlBaseStyle="text;html=1;align=center;verticalAlign=top;fontColor=#000000;fontSize=14;" plantUmlBaseValue="GESTOR" id="PYgAetvRZphNEmydzy1d-76">
+          <mxCell parent="PYgAetvRZphNEmydzy1d-72" style="text;html=1;align=center;verticalAlign=top;fontColor=#000000;fontSize=14;" vertex="1">
+            <mxGeometry height="17" width="65" x="405.6" y="-768" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="ESCALAR TICKET" plantUmlId="uc_4" plantUmlBaseStyle="ellipse;html=1;fillColor=#F1F1F1;strokeColor=#181818;whiteSpace=wrap;fontColor=#000000;fontSize=14;" plantUmlBaseValue="ESCALAR TICKET" id="PYgAetvRZphNEmydzy1d-77">
+          <mxCell parent="PYgAetvRZphNEmydzy1d-72" style="ellipse;html=1;fillColor=#F1F1F1;strokeColor=#181818;whiteSpace=wrap;fontColor=#000000;fontSize=14;" vertex="1">
+            <mxGeometry height="36" width="154" x="204.2" y="-818" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" plantUmlId="rel_5" plantUmlBaseStyle="endArrow=block;endFill=1;strokeColor=#181818;fontColor=#000000;fontSize=11;edgeStyle=none;rounded=0;html=1;curved=0;endSize=6;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" plantUmlBaseValue="" id="PYgAetvRZphNEmydzy1d-78">
+          <mxCell edge="1" parent="PYgAetvRZphNEmydzy1d-72" source="PYgAetvRZphNEmydzy1d-73" style="endArrow=block;endFill=1;strokeColor=#181818;fontColor=#000000;fontSize=11;edgeStyle=none;rounded=0;html=1;curved=0;endSize=6;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" target="PYgAetvRZphNEmydzy1d-77">
+            <mxGeometry relative="1" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" plantUmlId="rel_6" plantUmlBaseStyle="endArrow=block;endFill=1;strokeColor=#181818;fontColor=#000000;fontSize=11;edgeStyle=none;rounded=0;html=1;curved=0;endSize=6;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" plantUmlBaseValue="" id="PYgAetvRZphNEmydzy1d-79">
+          <mxCell edge="1" parent="PYgAetvRZphNEmydzy1d-72" source="PYgAetvRZphNEmydzy1d-77" style="endArrow=block;endFill=1;strokeColor=#181818;fontColor=#000000;fontSize=11;edgeStyle=none;rounded=0;html=1;curved=0;endSize=6;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" target="PYgAetvRZphNEmydzy1d-75">
+            <mxGeometry relative="1" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" plantUmlData="{&#xa;  &quot;data&quot;: &quot;@startuml\nleft to right direction\nactor \&quot;GESTOR\&quot; as gestor\nactor \&quot;SOLICITANTE\&quot; as sol\nusecase \&quot;CERRAR CASO\&quot; as UC4\n\ngestor --&gt; UC4\nUC4 --&gt; sol\n@enduml&quot;,&#xa;  &quot;config&quot;: null&#xa;}" id="PYgAetvRZphNEmydzy1d-80">
+          <mxCell connectable="0" parent="1" style="group;transparentBounds=1;editIcon=1;lockedGroup=0;groupPadding=10;" vertex="1">
+            <mxGeometry as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" plantUmlId="actor_0" plantUmlBaseStyle="shape=umlActor;html=1;fillColor=#F1F1F1;strokeColor=#181818;fontColor=#000000;fontSize=14;" plantUmlBaseValue="" id="PYgAetvRZphNEmydzy1d-81">
+          <mxCell parent="PYgAetvRZphNEmydzy1d-80" style="shape=umlActor;html=1;fillColor=#F1F1F1;strokeColor=#181818;fontColor=#000000;fontSize=14;" vertex="1">
+            <mxGeometry height="60" width="40" x="101" y="-690" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="GESTOR" plantUmlId="actorlbl_1" plantUmlBaseStyle="text;html=1;align=center;verticalAlign=top;fontColor=#000000;fontSize=14;" plantUmlBaseValue="GESTOR" id="PYgAetvRZphNEmydzy1d-82">
+          <mxCell parent="PYgAetvRZphNEmydzy1d-80" style="text;html=1;align=center;verticalAlign=top;fontColor=#000000;fontSize=14;" vertex="1">
+            <mxGeometry height="17" width="65" x="88.5" y="-628" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" plantUmlId="actor_2" plantUmlBaseStyle="shape=umlActor;html=1;fillColor=#F1F1F1;strokeColor=#181818;fontColor=#000000;fontSize=14;" plantUmlBaseValue="" id="PYgAetvRZphNEmydzy1d-83">
+          <mxCell parent="PYgAetvRZphNEmydzy1d-80" style="shape=umlActor;html=1;fillColor=#F1F1F1;strokeColor=#181818;fontColor=#000000;fontSize=14;" vertex="1">
+            <mxGeometry height="60" width="40" x="397.1" y="-690" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="SOLICITANTE" plantUmlId="actorlbl_3" plantUmlBaseStyle="text;html=1;align=center;verticalAlign=top;fontColor=#000000;fontSize=14;" plantUmlBaseValue="SOLICITANTE" id="PYgAetvRZphNEmydzy1d-84">
+          <mxCell parent="PYgAetvRZphNEmydzy1d-80" style="text;html=1;align=center;verticalAlign=top;fontColor=#000000;fontSize=14;" vertex="1">
+            <mxGeometry height="17" width="102" x="366.1" y="-628" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="CERRAR CASO" plantUmlId="uc_4" plantUmlBaseStyle="ellipse;html=1;fillColor=#F1F1F1;strokeColor=#181818;whiteSpace=wrap;fontColor=#000000;fontSize=14;" plantUmlBaseValue="CERRAR CASO" id="PYgAetvRZphNEmydzy1d-85">
+          <mxCell parent="PYgAetvRZphNEmydzy1d-80" style="ellipse;html=1;fillColor=#F1F1F1;strokeColor=#181818;whiteSpace=wrap;fontColor=#000000;fontSize=14;" vertex="1">
+            <mxGeometry height="32" width="136" x="201.2" y="-676" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" plantUmlId="rel_5" plantUmlBaseStyle="endArrow=block;endFill=1;strokeColor=#181818;fontColor=#000000;fontSize=11;edgeStyle=none;rounded=0;html=1;curved=0;endSize=6;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" plantUmlBaseValue="" id="PYgAetvRZphNEmydzy1d-86">
+          <mxCell edge="1" parent="PYgAetvRZphNEmydzy1d-80" source="PYgAetvRZphNEmydzy1d-81" style="endArrow=block;endFill=1;strokeColor=#181818;fontColor=#000000;fontSize=11;edgeStyle=none;rounded=0;html=1;curved=0;endSize=6;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" target="PYgAetvRZphNEmydzy1d-85">
+            <mxGeometry relative="1" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" plantUmlId="rel_6" plantUmlBaseStyle="endArrow=block;endFill=1;strokeColor=#181818;fontColor=#000000;fontSize=11;edgeStyle=none;rounded=0;html=1;curved=0;endSize=6;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" plantUmlBaseValue="" id="PYgAetvRZphNEmydzy1d-87">
+          <mxCell edge="1" parent="PYgAetvRZphNEmydzy1d-80" source="PYgAetvRZphNEmydzy1d-85" style="endArrow=block;endFill=1;strokeColor=#181818;fontColor=#000000;fontSize=11;edgeStyle=none;rounded=0;html=1;curved=0;endSize=6;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" target="PYgAetvRZphNEmydzy1d-83">
+            <mxGeometry relative="1" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" plantUmlData="{&#xa;  &quot;data&quot;: &quot;@startuml\nleft to right direction\nactor \&quot;GESTOR\&quot; as gestor\nactor \&quot;SISTEMA\&quot; as sis\nusecase \&quot;CREAR MÉTRICAS\&quot; as UC5\n\ngestor --&gt; UC5\nUC5 --&gt; sis\n@enduml&quot;,&#xa;  &quot;config&quot;: null&#xa;}" id="PYgAetvRZphNEmydzy1d-88">
+          <mxCell connectable="0" parent="1" style="group;transparentBounds=1;editIcon=1;lockedGroup=0;groupPadding=10;" vertex="1">
+            <mxGeometry as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" plantUmlId="actor_0" plantUmlBaseStyle="shape=umlActor;html=1;fillColor=#F1F1F1;strokeColor=#181818;fontColor=#000000;fontSize=14;" plantUmlBaseValue="" id="PYgAetvRZphNEmydzy1d-89">
+          <mxCell parent="PYgAetvRZphNEmydzy1d-88" style="shape=umlActor;html=1;fillColor=#F1F1F1;strokeColor=#181818;fontColor=#000000;fontSize=14;" vertex="1">
+            <mxGeometry height="60" width="40" x="102.5" y="-550" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="GESTOR" plantUmlId="actorlbl_1" plantUmlBaseStyle="text;html=1;align=center;verticalAlign=top;fontColor=#000000;fontSize=14;" plantUmlBaseValue="GESTOR" id="PYgAetvRZphNEmydzy1d-90">
+          <mxCell parent="PYgAetvRZphNEmydzy1d-88" style="text;html=1;align=center;verticalAlign=top;fontColor=#000000;fontSize=14;" vertex="1">
+            <mxGeometry height="17" width="65" x="90" y="-488" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" plantUmlId="actor_2" plantUmlBaseStyle="shape=umlActor;html=1;fillColor=#F1F1F1;strokeColor=#181818;fontColor=#000000;fontSize=14;" plantUmlBaseValue="" id="PYgAetvRZphNEmydzy1d-91">
+          <mxCell parent="PYgAetvRZphNEmydzy1d-88" style="shape=umlActor;html=1;fillColor=#F1F1F1;strokeColor=#181818;fontColor=#000000;fontSize=14;" vertex="1">
+            <mxGeometry height="60" width="40" x="420.6" y="-550" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="SISTEMA" plantUmlId="actorlbl_3" plantUmlBaseStyle="text;html=1;align=center;verticalAlign=top;fontColor=#000000;fontSize=14;" plantUmlBaseValue="SISTEMA" id="PYgAetvRZphNEmydzy1d-92">
+          <mxCell parent="PYgAetvRZphNEmydzy1d-88" style="text;html=1;align=center;verticalAlign=top;fontColor=#000000;fontSize=14;" vertex="1">
+            <mxGeometry height="17" width="75" x="403.1" y="-488" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="CREAR MÉTRICAS" plantUmlId="uc_4" plantUmlBaseStyle="ellipse;html=1;fillColor=#F1F1F1;strokeColor=#181818;whiteSpace=wrap;fontColor=#000000;fontSize=14;" plantUmlBaseValue="CREAR MÉTRICAS" id="PYgAetvRZphNEmydzy1d-93">
+          <mxCell parent="PYgAetvRZphNEmydzy1d-88" style="ellipse;html=1;fillColor=#F1F1F1;strokeColor=#181818;whiteSpace=wrap;fontColor=#000000;fontSize=14;" vertex="1">
+            <mxGeometry height="36" width="158" x="202.7" y="-538" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" plantUmlId="rel_5" plantUmlBaseStyle="endArrow=block;endFill=1;strokeColor=#181818;fontColor=#000000;fontSize=11;edgeStyle=none;rounded=0;html=1;curved=0;endSize=6;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" plantUmlBaseValue="" id="PYgAetvRZphNEmydzy1d-94">
+          <mxCell edge="1" parent="PYgAetvRZphNEmydzy1d-88" source="PYgAetvRZphNEmydzy1d-89" style="endArrow=block;endFill=1;strokeColor=#181818;fontColor=#000000;fontSize=11;edgeStyle=none;rounded=0;html=1;curved=0;endSize=6;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" target="PYgAetvRZphNEmydzy1d-93">
+            <mxGeometry relative="1" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" plantUmlId="rel_6" plantUmlBaseStyle="endArrow=block;endFill=1;strokeColor=#181818;fontColor=#000000;fontSize=11;edgeStyle=none;rounded=0;html=1;curved=0;endSize=6;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" plantUmlBaseValue="" id="PYgAetvRZphNEmydzy1d-95">
+          <mxCell edge="1" parent="PYgAetvRZphNEmydzy1d-88" source="PYgAetvRZphNEmydzy1d-93" style="endArrow=block;endFill=1;strokeColor=#181818;fontColor=#000000;fontSize=11;edgeStyle=none;rounded=0;html=1;curved=0;endSize=6;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" target="PYgAetvRZphNEmydzy1d-91">
+            <mxGeometry relative="1" as="geometry" />
+          </mxCell>
+        </UserObject>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

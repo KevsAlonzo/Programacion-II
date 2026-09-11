@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Carrito_de_Compra_30.08.2026")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3e1b3753cd2d00a21ee30b1f9be4cd91a912551c")]
 [assembly: System.Reflection.AssemblyProductAttribute("Carrito_de_Compra_30.08.2026")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Carrito_de_Compra_30.08.2026")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
