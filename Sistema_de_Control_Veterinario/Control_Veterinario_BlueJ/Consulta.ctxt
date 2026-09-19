@@ -1,0 +1,9 @@
+#BlueJ class context
+#Sat Sep 19 12:02:31 CST 2026
+comment0.target=Consulta
+comment0.text=\r\n Write a description of class Carnet here.\r\n \r\n @author Kevin Alonzo\r\n
+comment1.params=paciente doctorAsignado motivoVisita
+comment1.target=Consulta(Mascota, Veterinario, java.lang.String)
+comment2.params=sintomas diagnostico
+comment2.target=void registrarDiagnostico(java.lang.String, java.lang.String)
+numComments=3

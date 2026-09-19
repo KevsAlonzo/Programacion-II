@@ -1,0 +1,8 @@
+#BlueJ class context
+#Sat Sep 19 11:25:00 CST 2026
+comment0.target=Carnet
+comment0.text=\r\n Write a description of class Carnet here.\r\n \r\n @author Kevin Alonzo\r\n
+comment1.target=Carnet()
+comment2.params=nombreVacuna collarRabia
+comment2.target=void registrarVacuna(java.lang.String, boolean)
+numComments=3
