@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\COMPUFIRE\\OneDrive - Universidad Mariano G\u00E1lvez\\UMG\\PROGRAMACION II\\GitHub\\Programacion-II\\Sistema_de_Control_Veterinario\\Control_Veterinario_C#\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CEE23586-5001-4723-BD7F-A832E9B04546}|Control_Veterinario_C#\\Control_Veterinario_C#.csproj|c:\\users\\compufire\\onedrive - universidad mariano g\u00E1lvez\\umg\\programacion ii\\github\\programacion-ii\\sistema_de_control_veterinario\\control_veterinario_c#\\control_veterinario_c#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CEE23586-5001-4723-BD7F-A832E9B04546}|Control_Veterinario_C#\\Control_Veterinario_C#.csproj|solutionrelative:control_veterinario_c#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C8642C1B-2A62-9858-663C-FC9FBB425097}|Control_Veterinario_C#\\Control_Veterinario_C#.csproj|c:\\users\\compufire\\onedrive - universidad mariano g\u00E1lvez\\umg\\programacion ii\\github\\programacion-ii\\sistema_de_control_veterinario\\control_veterinario_c#\\control_veterinario_c#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8642C1B-2A62-9858-663C-FC9FBB425097}|Control_Veterinario_C#\\Control_Veterinario_C#.csproj|solutionrelative:control_veterinario_c#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,12 +14,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 5,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{131369f2-062d-44a2-8671-91ff31efb4f4}"
@@ -48,7 +44,7 @@
               "RelativeDocumentMoniker": "Control_Veterinario_C#\\Program.cs",
               "ToolTip": "C:\\Users\\COMPUFIRE\\OneDrive - Universidad Mariano G\u00E1lvez\\UMG\\PROGRAMACION II\\GitHub\\Programacion-II\\Sistema_de_Control_Veterinario\\Control_Veterinario_C#\\Control_Veterinario_C#\\Program.cs",
               "RelativeToolTip": "Control_Veterinario_C#\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-19T18:52:05.538Z",
               "EditorCaption": ""

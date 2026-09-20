@@ -188,9 +188,9 @@ namespace SistemaVeterinaria
                             Console.WriteLine("No hay consultas en cola tras el triaje.");
                             break;
                         }
-                        // Atendemos la última consulta ingresada para el ejemplo
+                        // Atiende la última consulta ingresada
                         Consulta consultaActual = gestor.lstConsultas[gestor.lstConsultas.Count - 1];
-                        Console.WriteLine($"\nAtendiendo a: {consultaActual.objPaciente.strNombre} | Motivo: {consultaActual.strMotivo}");
+                        Console.WriteLine($"\nAtendiendo a: {consultaActual.objPaciente.strNombre} | Doctor: {consultaActual.objDoctor.strNombre} | Motivo: {consultaActual.strMotivo}");
 
                         Console.Write("Ingrese los síntomas observados: ");
                         consultaActual.strSintomas = Console.ReadLine();
