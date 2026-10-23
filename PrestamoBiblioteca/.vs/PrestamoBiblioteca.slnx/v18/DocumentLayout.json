@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\COMPUFIRE\\OneDrive - Universidad Mariano G\u00E1lvez\\UMG\\PROGRAMACION II\\GitHub\\Programacion-II\\PrestamoBiblioteca\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7E2A1975-D77D-B7A8-A22E-9164EF93E678}|PrestamoBiblioteca\\PrestamoBiblioteca.csproj|c:\\users\\compufire\\onedrive - universidad mariano g\u00E1lvez\\umg\\programacion ii\\github\\programacion-ii\\prestamobiblioteca\\prestamobiblioteca\\persistencia\\repositoriobiblioteca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E2A1975-D77D-B7A8-A22E-9164EF93E678}|PrestamoBiblioteca\\PrestamoBiblioteca.csproj|solutionrelative:prestamobiblioteca\\persistencia\\repositoriobiblioteca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7E2A1975-D77D-B7A8-A22E-9164EF93E678}|PrestamoBiblioteca\\PrestamoBiblioteca.csproj|c:\\users\\compufire\\onedrive - universidad mariano g\u00E1lvez\\umg\\programacion ii\\github\\programacion-ii\\prestamobiblioteca\\prestamobiblioteca\\aplicacion\\menubiblioteca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7E2A1975-D77D-B7A8-A22E-9164EF93E678}|PrestamoBiblioteca\\PrestamoBiblioteca.csproj|solutionrelative:prestamobiblioteca\\aplicacion\\menubiblioteca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7E2A1975-D77D-B7A8-A22E-9164EF93E678}|PrestamoBiblioteca\\PrestamoBiblioteca.csproj|c:\\users\\compufire\\onedrive - universidad mariano g\u00E1lvez\\umg\\programacion ii\\github\\programacion-ii\\prestamobiblioteca\\prestamobiblioteca\\persistencia\\repositoriobiblioteca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7E2A1975-D77D-B7A8-A22E-9164EF93E678}|PrestamoBiblioteca\\PrestamoBiblioteca.csproj|solutionrelative:prestamobiblioteca\\persistencia\\repositoriobiblioteca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7E2A1975-D77D-B7A8-A22E-9164EF93E678}|PrestamoBiblioteca\\PrestamoBiblioteca.csproj|c:\\users\\compufire\\onedrive - universidad mariano g\u00E1lvez\\umg\\programacion ii\\github\\programacion-ii\\prestamobiblioteca\\prestamobiblioteca\\basedatos\\crear_tablas.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{7E2A1975-D77D-B7A8-A22E-9164EF93E678}|PrestamoBiblioteca\\PrestamoBiblioteca.csproj|solutionrelative:prestamobiblioteca\\basedatos\\crear_tablas.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7E2A1975-D77D-B7A8-A22E-9164EF93E678}|PrestamoBiblioteca\\PrestamoBiblioteca.csproj|c:\\users\\compufire\\onedrive - universidad mariano g\u00E1lvez\\umg\\programacion ii\\github\\programacion-ii\\prestamobiblioteca\\prestamobiblioteca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7E2A1975-D77D-B7A8-A22E-9164EF93E678}|PrestamoBiblioteca\\PrestamoBiblioteca.csproj|solutionrelative:prestamobiblioteca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7E2A1975-D77D-B7A8-A22E-9164EF93E678}|PrestamoBiblioteca\\PrestamoBiblioteca.csproj|c:\\users\\compufire\\onedrive - universidad mariano g\u00E1lvez\\umg\\programacion ii\\github\\programacion-ii\\prestamobiblioteca\\prestamobiblioteca\\basedatos\\crear_tablas.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
-      "RelativeMoniker": "D:0:0:{7E2A1975-D77D-B7A8-A22E-9164EF93E678}|PrestamoBiblioteca\\PrestamoBiblioteca.csproj|solutionrelative:prestamobiblioteca\\basedatos\\crear_tablas.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+      "AbsoluteMoniker": "D:0:0:{7E2A1975-D77D-B7A8-A22E-9164EF93E678}|PrestamoBiblioteca\\PrestamoBiblioteca.csproj|c:\\users\\compufire\\onedrive - universidad mariano g\u00E1lvez\\umg\\programacion ii\\github\\programacion-ii\\prestamobiblioteca\\prestamobiblioteca\\basedatos\\crear_tablas.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{7E2A1975-D77D-B7A8-A22E-9164EF93E678}|PrestamoBiblioteca\\PrestamoBiblioteca.csproj|solutionrelative:prestamobiblioteca\\basedatos\\crear_tablas.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,43 +50,45 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "MenuBiblioteca.cs",
               "DocumentMoniker": "C:\\Users\\COMPUFIRE\\OneDrive - Universidad Mariano G\u00E1lvez\\UMG\\PROGRAMACION II\\GitHub\\Programacion-II\\PrestamoBiblioteca\\PrestamoBiblioteca\\Aplicacion\\MenuBiblioteca.cs",
               "RelativeDocumentMoniker": "PrestamoBiblioteca\\Aplicacion\\MenuBiblioteca.cs",
               "ToolTip": "C:\\Users\\COMPUFIRE\\OneDrive - Universidad Mariano G\u00E1lvez\\UMG\\PROGRAMACION II\\GitHub\\Programacion-II\\PrestamoBiblioteca\\PrestamoBiblioteca\\Aplicacion\\MenuBiblioteca.cs",
               "RelativeToolTip": "PrestamoBiblioteca\\Aplicacion\\MenuBiblioteca.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAABHAAAAAAAAAA==",
+              "ViewState": "AgIAAMAAAAAAAAAAAAAIwD0AAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-18T02:23:33.135Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "crear_tablas.sql",
+              "DocumentIndex": 2,
+              "Title": "crear_tablas.sql ",
               "DocumentMoniker": "C:\\Users\\COMPUFIRE\\OneDrive - Universidad Mariano G\u00E1lvez\\UMG\\PROGRAMACION II\\GitHub\\Programacion-II\\PrestamoBiblioteca\\PrestamoBiblioteca\\BaseDatos\\crear_tablas.sql",
               "RelativeDocumentMoniker": "PrestamoBiblioteca\\BaseDatos\\crear_tablas.sql",
               "ToolTip": "C:\\Users\\COMPUFIRE\\OneDrive - Universidad Mariano G\u00E1lvez\\UMG\\PROGRAMACION II\\GitHub\\Programacion-II\\PrestamoBiblioteca\\PrestamoBiblioteca\\BaseDatos\\crear_tablas.sql",
               "RelativeToolTip": "PrestamoBiblioteca\\BaseDatos\\crear_tablas.sql",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2026-10-18T02:23:13.543Z"
+              "WhenOpened": "2026-10-18T02:23:13.543Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "RepositorioBiblioteca.cs",
               "DocumentMoniker": "C:\\Users\\COMPUFIRE\\OneDrive - Universidad Mariano G\u00E1lvez\\UMG\\PROGRAMACION II\\GitHub\\Programacion-II\\PrestamoBiblioteca\\PrestamoBiblioteca\\Persistencia\\RepositorioBiblioteca.cs",
               "RelativeDocumentMoniker": "PrestamoBiblioteca\\Persistencia\\RepositorioBiblioteca.cs",
               "ToolTip": "C:\\Users\\COMPUFIRE\\OneDrive - Universidad Mariano G\u00E1lvez\\UMG\\PROGRAMACION II\\GitHub\\Programacion-II\\PrestamoBiblioteca\\PrestamoBiblioteca\\Persistencia\\RepositorioBiblioteca.cs",
               "RelativeToolTip": "PrestamoBiblioteca\\Persistencia\\RepositorioBiblioteca.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAQwKQAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAAAKQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-18T02:18:34.441Z"
+              "WhenOpened": "2026-10-18T02:18:34.441Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\COMPUFIRE\\OneDrive - Universidad Mariano G\u00E1lvez\\UMG\\PROGRAMACION II\\GitHub\\Programacion-II\\PrestamoBiblioteca\\PrestamoBiblioteca\\Program.cs",
               "RelativeDocumentMoniker": "PrestamoBiblioteca\\Program.cs",
@@ -90,7 +96,8 @@
               "RelativeToolTip": "PrestamoBiblioteca\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-18T02:08:30.237Z"
+              "WhenOpened": "2026-10-18T02:08:30.237Z",
+              "EditorCaption": ""
             }
           ]
         }

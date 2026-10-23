@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "Wd65jAQYfJo=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\COMPUFIRE\\OneDrive - Universidad Mariano Gálvez\\UMG\\PROGRAMACION II\\GitHub\\Programacion-II\\Control_Veterinario_v2.0\\Control_Veterinario_v2.0\\Control_Veterinario_v2.0.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\COMPUFIRE\\.nuget\\packages\\microsoft.data.sqlite\\10.0.13\\microsoft.data.sqlite.10.0.13.nupkg.sha512",
+    "C:\\Users\\COMPUFIRE\\.nuget\\packages\\microsoft.data.sqlite.core\\10.0.13\\microsoft.data.sqlite.core.10.0.13.nupkg.sha512",
+    "C:\\Users\\COMPUFIRE\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.1.13\\sqlitepclraw.bundle_e_sqlite3.2.1.13.nupkg.sha512",
+    "C:\\Users\\COMPUFIRE\\.nuget\\packages\\sqlitepclraw.core\\2.1.13\\sqlitepclraw.core.2.1.13.nupkg.sha512",
+    "C:\\Users\\COMPUFIRE\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.1.13\\sqlitepclraw.lib.e_sqlite3.2.1.13.nupkg.sha512",
+    "C:\\Users\\COMPUFIRE\\.nuget\\packages\\sqlitepclraw.provider.e_sqlite3\\2.1.13\\sqlitepclraw.provider.e_sqlite3.2.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

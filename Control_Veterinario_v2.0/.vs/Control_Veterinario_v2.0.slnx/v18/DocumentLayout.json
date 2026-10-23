@@ -1,0 +1,124 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\COMPUFIRE\\OneDrive - Universidad Mariano G\u00E1lvez\\UMG\\PROGRAMACION II\\GitHub\\Programacion-II\\Control_Veterinario_v2.0\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F5574BD8-0EE1-7B24-10B4-59BEFF2161F1}|Control_Veterinario_v2.0\\Control_Veterinario_v2.0.csproj|c:\\users\\compufire\\onedrive - universidad mariano g\u00E1lvez\\umg\\programacion ii\\github\\programacion-ii\\control_veterinario_v2.0\\control_veterinario_v2.0\\aplicacion\\menuveterinaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5574BD8-0EE1-7B24-10B4-59BEFF2161F1}|Control_Veterinario_v2.0\\Control_Veterinario_v2.0.csproj|solutionrelative:control_veterinario_v2.0\\aplicacion\\menuveterinaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5574BD8-0EE1-7B24-10B4-59BEFF2161F1}|Control_Veterinario_v2.0\\Control_Veterinario_v2.0.csproj|c:\\users\\compufire\\onedrive - universidad mariano g\u00E1lvez\\umg\\programacion ii\\github\\programacion-ii\\control_veterinario_v2.0\\control_veterinario_v2.0\\persistencia\\repositorioveterinaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5574BD8-0EE1-7B24-10B4-59BEFF2161F1}|Control_Veterinario_v2.0\\Control_Veterinario_v2.0.csproj|solutionrelative:control_veterinario_v2.0\\persistencia\\repositorioveterinaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5574BD8-0EE1-7B24-10B4-59BEFF2161F1}|Control_Veterinario_v2.0\\Control_Veterinario_v2.0.csproj|c:\\users\\compufire\\onedrive - universidad mariano g\u00E1lvez\\umg\\programacion ii\\github\\programacion-ii\\control_veterinario_v2.0\\control_veterinario_v2.0\\basedatos\\crear_tablas.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{F5574BD8-0EE1-7B24-10B4-59BEFF2161F1}|Control_Veterinario_v2.0\\Control_Veterinario_v2.0.csproj|solutionrelative:control_veterinario_v2.0\\basedatos\\crear_tablas.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5574BD8-0EE1-7B24-10B4-59BEFF2161F1}|Control_Veterinario_v2.0\\Control_Veterinario_v2.0.csproj|c:\\users\\compufire\\onedrive - universidad mariano g\u00E1lvez\\umg\\programacion ii\\github\\programacion-ii\\control_veterinario_v2.0\\control_veterinario_v2.0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5574BD8-0EE1-7B24-10B4-59BEFF2161F1}|Control_Veterinario_v2.0\\Control_Veterinario_v2.0.csproj|solutionrelative:control_veterinario_v2.0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5574BD8-0EE1-7B24-10B4-59BEFF2161F1}|Control_Veterinario_v2.0\\Control_Veterinario_v2.0.csproj|c:\\users\\compufire\\onedrive - universidad mariano g\u00E1lvez\\umg\\programacion ii\\github\\programacion-ii\\control_veterinario_v2.0\\control_veterinario_v2.0\\persistencia\\inicializadorbasedatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5574BD8-0EE1-7B24-10B4-59BEFF2161F1}|Control_Veterinario_v2.0\\Control_Veterinario_v2.0.csproj|solutionrelative:control_veterinario_v2.0\\persistencia\\inicializadorbasedatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5574BD8-0EE1-7B24-10B4-59BEFF2161F1}|Control_Veterinario_v2.0\\Control_Veterinario_v2.0.csproj|c:\\users\\compufire\\onedrive - universidad mariano g\u00E1lvez\\umg\\programacion ii\\github\\programacion-ii\\control_veterinario_v2.0\\control_veterinario_v2.0\\basedatos\\crear_tablas.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{F5574BD8-0EE1-7B24-10B4-59BEFF2161F1}|Control_Veterinario_v2.0\\Control_Veterinario_v2.0.csproj|solutionrelative:control_veterinario_v2.0\\basedatos\\crear_tablas.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "crear_tablas.sql ",
+              "DocumentMoniker": "C:\\Users\\COMPUFIRE\\OneDrive - Universidad Mariano G\u00E1lvez\\UMG\\PROGRAMACION II\\GitHub\\Programacion-II\\Control_Veterinario_v2.0\\Control_Veterinario_v2.0\\BaseDatos\\crear_tablas.sql",
+              "RelativeDocumentMoniker": "Control_Veterinario_v2.0\\BaseDatos\\crear_tablas.sql",
+              "ToolTip": "C:\\Users\\COMPUFIRE\\OneDrive - Universidad Mariano G\u00E1lvez\\UMG\\PROGRAMACION II\\GitHub\\Programacion-II\\Control_Veterinario_v2.0\\Control_Veterinario_v2.0\\BaseDatos\\crear_tablas.sql",
+              "RelativeToolTip": "Control_Veterinario_v2.0\\BaseDatos\\crear_tablas.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-10-23T06:25:23.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MenuVeterinaria.cs",
+              "DocumentMoniker": "C:\\Users\\COMPUFIRE\\OneDrive - Universidad Mariano G\u00E1lvez\\UMG\\PROGRAMACION II\\GitHub\\Programacion-II\\Control_Veterinario_v2.0\\Control_Veterinario_v2.0\\Aplicacion\\MenuVeterinaria.cs",
+              "RelativeDocumentMoniker": "Control_Veterinario_v2.0\\Aplicacion\\MenuVeterinaria.cs",
+              "ToolTip": "C:\\Users\\COMPUFIRE\\OneDrive - Universidad Mariano G\u00E1lvez\\UMG\\PROGRAMACION II\\GitHub\\Programacion-II\\Control_Veterinario_v2.0\\Control_Veterinario_v2.0\\Aplicacion\\MenuVeterinaria.cs",
+              "RelativeToolTip": "Control_Veterinario_v2.0\\Aplicacion\\MenuVeterinaria.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAgwFsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-23T06:22:44.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RepositorioVeterinaria.cs",
+              "DocumentMoniker": "C:\\Users\\COMPUFIRE\\OneDrive - Universidad Mariano G\u00E1lvez\\UMG\\PROGRAMACION II\\GitHub\\Programacion-II\\Control_Veterinario_v2.0\\Control_Veterinario_v2.0\\Persistencia\\RepositorioVeterinaria.cs",
+              "RelativeDocumentMoniker": "Control_Veterinario_v2.0\\Persistencia\\RepositorioVeterinaria.cs",
+              "ToolTip": "C:\\Users\\COMPUFIRE\\OneDrive - Universidad Mariano G\u00E1lvez\\UMG\\PROGRAMACION II\\GitHub\\Programacion-II\\Control_Veterinario_v2.0\\Control_Veterinario_v2.0\\Persistencia\\RepositorioVeterinaria.cs",
+              "RelativeToolTip": "Control_Veterinario_v2.0\\Persistencia\\RepositorioVeterinaria.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAmwH0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-23T06:21:36.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InicializadorBaseDatos.cs",
+              "DocumentMoniker": "C:\\Users\\COMPUFIRE\\OneDrive - Universidad Mariano G\u00E1lvez\\UMG\\PROGRAMACION II\\GitHub\\Programacion-II\\Control_Veterinario_v2.0\\Control_Veterinario_v2.0\\Persistencia\\InicializadorBaseDatos.cs",
+              "RelativeDocumentMoniker": "Control_Veterinario_v2.0\\Persistencia\\InicializadorBaseDatos.cs",
+              "ToolTip": "C:\\Users\\COMPUFIRE\\OneDrive - Universidad Mariano G\u00E1lvez\\UMG\\PROGRAMACION II\\GitHub\\Programacion-II\\Control_Veterinario_v2.0\\Control_Veterinario_v2.0\\Persistencia\\InicializadorBaseDatos.cs",
+              "RelativeToolTip": "Control_Veterinario_v2.0\\Persistencia\\InicializadorBaseDatos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-23T06:19:25.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\COMPUFIRE\\OneDrive - Universidad Mariano G\u00E1lvez\\UMG\\PROGRAMACION II\\GitHub\\Programacion-II\\Control_Veterinario_v2.0\\Control_Veterinario_v2.0\\Program.cs",
+              "RelativeDocumentMoniker": "Control_Veterinario_v2.0\\Program.cs",
+              "ToolTip": "C:\\Users\\COMPUFIRE\\OneDrive - Universidad Mariano G\u00E1lvez\\UMG\\PROGRAMACION II\\GitHub\\Programacion-II\\Control_Veterinario_v2.0\\Control_Veterinario_v2.0\\Program.cs",
+              "RelativeToolTip": "Control_Veterinario_v2.0\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAwBgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-23T06:07:40.714Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
